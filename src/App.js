@@ -15,7 +15,7 @@ const  App = () =>  {
 
     return (
       <div>
-        <Router>
+        <Router >
           <Navbar/>       
           <LoadingBar
              height={3}
